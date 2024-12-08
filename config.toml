@@ -9,4 +9,3 @@ parallel-jobs = 1
 [Duolingo]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
 build-mode = "both"
-included-patches = "'Enable debug menu'"
